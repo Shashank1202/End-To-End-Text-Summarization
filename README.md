@@ -1,5 +1,11 @@
 # End to end Text-Summarizer-Project
 
+
+## This is the Implementation Demo and on top of this we will be building an End-to-End pipelines with CI/CD deployment
+
+## https://github.com/Shashank1202/End-To-End-Text-Summarization/blob/main/Text_Summarizer.ipynb
+
+
 ## Workflows
 
 1. Update config.yaml
